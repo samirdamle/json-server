@@ -4,7 +4,7 @@
     "description": "A mock API server",
     "main": "index.js",
     "scripts": {
-        "start": "json-server todos",
+        "start": "json-server todos.json",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Samir Damle",
